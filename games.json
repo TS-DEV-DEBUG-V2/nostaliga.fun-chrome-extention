@@ -1,0 +1,58 @@
+{
+  "games": [
+    {
+      "id": "2048",
+      "title": "2048",
+      "description": "Slide tiles to combine numbers and reach 2048!",
+      "image": "https://play2048.co/meta/og-image.png",
+      "url": "https://play2048.co/",
+      "category": "Puzzle",
+      "color": "#f5a623"
+    },
+    {
+      "id": "skribbl",
+      "title": "Skribbl.io",
+      "description": "Draw and guess words with players worldwide.",
+      "image": "https://skribbl.io/img/skribbl_og.png",
+      "url": "https://skribbl.io/",
+      "category": "Multiplayer",
+      "color": "#4ecdc4"
+    },
+    {
+      "id": "chess",
+      "title": "Chess",
+      "description": "Play chess against the computer or a friend.",
+      "image": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png",
+      "url": "https://www.chess.com/play/computer",
+      "category": "Strategy",
+      "color": "#6c5ce7"
+    },
+    {
+      "id": "pacman",
+      "title": "Pac-Man",
+      "description": "The classic arcade game. Eat dots, avoid ghosts!",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PacMan.svg/480px-PacMan.svg.png",
+      "url": "https://freepacman.org/",
+      "category": "Arcade",
+      "color": "#fdcb6e"
+    },
+    {
+      "id": "wordle",
+      "title": "Wordle",
+      "description": "Guess the 5-letter word in 6 tries.",
+      "image": "https://www.nytimes.com/games-assets/v2/metadata/wordle-og.png",
+      "url": "https://www.nytimes.com/games/wordle/index.html",
+      "category": "Word",
+      "color": "#00b894"
+    },
+    {
+      "id": "sudoku",
+      "title": "Sudoku",
+      "description": "Fill the grid so every row, column and box has 1–9.",
+      "image": "https://sudoku.com/img/og.jpg",
+      "url": "https://sudoku.com/",
+      "category": "Puzzle",
+      "color": "#e17055"
+    }
+  ]
+}
