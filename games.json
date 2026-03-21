@@ -1,58 +1,237 @@
 {
-  "games": [
-    {
-      "id": "2048",
-      "title": "2048",
-      "description": "Slide tiles to combine numbers and reach 2048!",
-      "image": "https://play2048.co/meta/og-image.png",
-      "url": "https://play2048.co/",
-      "category": "Puzzle",
-      "color": "#f5a623"
-    },
-    {
-      "id": "skribbl",
-      "title": "Skribbl.io",
-      "description": "Draw and guess words with players worldwide.",
-      "image": "https://skribbl.io/img/skribbl_og.png",
-      "url": "https://skribbl.io/",
-      "category": "Multiplayer",
-      "color": "#4ecdc4"
-    },
-    {
-      "id": "chess",
-      "title": "Chess",
-      "description": "Play chess against the computer or a friend.",
-      "image": "https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png",
-      "url": "https://www.chess.com/play/computer",
-      "category": "Strategy",
-      "color": "#6c5ce7"
-    },
-    {
-      "id": "pacman",
-      "title": "Pac-Man",
-      "description": "The classic arcade game. Eat dots, avoid ghosts!",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PacMan.svg/480px-PacMan.svg.png",
-      "url": "https://freepacman.org/",
-      "category": "Arcade",
-      "color": "#fdcb6e"
-    },
-    {
-      "id": "wordle",
-      "title": "Wordle",
-      "description": "Guess the 5-letter word in 6 tries.",
-      "image": "https://www.nytimes.com/games-assets/v2/metadata/wordle-og.png",
-      "url": "https://www.nytimes.com/games/wordle/index.html",
-      "category": "Word",
-      "color": "#00b894"
-    },
-    {
-      "id": "sudoku",
-      "title": "Sudoku",
-      "description": "Fill the grid so every row, column and box has 1–9.",
-      "image": "https://sudoku.com/img/og.jpg",
-      "url": "https://sudoku.com/",
-      "category": "Puzzle",
-      "color": "#e17055"
-    }
-  ]
+    "GBA": ["pokemon-fire-red-version.html",
+	        "pokemon-emerald-version.html",
+            "pokemon-ruby-version.html",		
+            "pokemon-sapphire-version.html",
+			"pokemon-leaf-green-version.html",
+			"doom-2.html",
+			"doom.html",
+			"sonic-advance-3.html",
+			"mario-pinball-land.html",
+			"mario-vs.-donkey-kong.html",
+			"sonic-advance.html",
+			"spongeBob-squarePants-—-revenge-of-the-flying-dutchman.html",
+			"mario-kart-super-circuit.html",
+			"donkey-kong-country.html"
+			],
+    "GB": [
+        "pokemon-red-version.html",
+        "pokemon-blue-version.html",
+        "pokemon-green-version.html",
+        "pokemon-yellow-version.html",
+        "super-mario-land.html",
+        "super-mario-Land-2-the-6-golden-coins.html",
+		"tetris.html",
+		"dr.-mario.html",
+		"kirby's-dream-land-2.html",
+		"legend-of-zelda,-the-link's-awakening.html",
+		"wario-land-super-mario-land-3.html",
+		"metroid-II-–-return-of-samus.html"
+	],
+	"GBC": [
+        "super-mario-bros.-deluxe.html",
+		"legend-of-zelda,-the-–-links-awakening-dX.html",
+		"pokemon-gold-version.html",
+		"pokemon-silver-version.html",
+		"pokemon-crystal-version.html"
+	],
+	
+    "NES": [
+        "paper-boy.html",
+        "super-mario-bros.html",
+        "super-mario-bros-2.html",
+        "super-mario-bros-3.html",
+		"kirbys-adventure.html",
+		"adventure-island.html",
+		"adventure-Island-II.html",
+		"adventure-island-3.html",
+        "1942.html",
+		"snow-bros.html",
+		"dr.mario.html",
+		"metroid.html",
+		"pac-man-(namco).html",
+		"donkey-kong-classics.html",
+		"excitebike.html",
+		"mike-tysons-punch-out.html",
+		"contra.html",
+		"teenage-mutant-ninja-turtles.html",
+		"ice-hockey.html",
+		"ice-climber.html",
+		"mario-bros.html",
+		"tetris.html",
+		"golf.html",
+		"popeye.html",
+		"galaga.html",
+		"rad-racer.html",
+		"duck-hunt.html",
+		"F1-Race.html"
+    ],
+"SNES": [
+     "super-mario-world.html",
+     "donkey-kong-country-3-dixie-kong's-double-trouble!.html",
+     "donkey-kong-country.html",
+     "street-fighter-II-turbo.html",
+     "super-mario-kart.html",
+     "super-mario-world-2-yoshi's-Island.html",
+     "the-legend-of-zelda,-a-link-to-the-past.html",
+     "doom.html",
+     "f-zero.html",
+     "kirby-super-star.html",
+     "super-metroid.html",
+     "super-mario-rpg-the-legend-of-the-seven-stars.html",
+     "mortal-kombat.html",
+     "contra-III-the-alien-wars.html",
+     "dragon-ball-z-hyper-dimension.html",
+     "jurassic-park.html",
+     "simpsons,-the-bart's-nightmare.html",
+     "super-mario-all-stars.html",
+     "super-punch-out!!.html",
+     "ultimate-mortal-kombat-3.html",
+     "mortal-kombat-3.html",
+     "tetris-and-dr.mario.html",
+     "mortal-kombat-II.html"
+],
+    "GENESIS": ["sonic-the-hedgehog.html",
+	            "sonic-the-hedgehog-2.html",
+				"sonic-and-knuckles.html",
+				"sonic-3D-blast.html",
+				"sonic-the-hedgehog-3.html"
+				],
+	"SGG":
+		 [
+		 "sonic-the-hedgehog.html",
+		 "sonic-the-hedgehog-2.html"
+	],
+	"SMS":
+		[
+		"alex-kidd-in-miracle-world.html",
+		"sonic-the-hedgehog-2.html"
+	],
+		  
+    "N64": [
+			"super-mario-64.html",
+			"donkey-kong-64.html",
+			"legend-of-zelda,-the-majora's-mask.html",
+			"mario-kart-64.html",
+			"pokemon-staduim.html",
+			"pokemon-staduim-2.html",
+			"super-smash-bros.html",
+			"the-legend-of-zelda,-the-ocarina-of-time.html",
+			"kirby-64,-the-crystal-shards.html",
+			"mario-party-3.html",
+			"mario-party-2.html",
+			"mario-party.html",
+			"yoshi's-story.html",
+			"diddy-kong-racing.html",
+			"doom-64.html",
+			"goldenye-007.html",
+			"mario-tennis.html",
+			"pokemon-snap.html",
+			"waluigi's-taco-stand.html",
+			"mario-builder-64.html",
+			"doubutsu-no-mori.html"
+			],
+	"PS1": [
+		    "spyro-the-dragon.html",
+			"crash-bandicoot.html",
+			"ridge-racer-r4.html",
+			"spyro-2-–-ripto's-rage!.html",
+			"pepsiman.html",
+			"spyro-the-year-of-the-dragon.html",
+			"pacman-world.html"
+		   ],
+	"PSP":
+			[
+			"FIFA-14.html"
+			],
+	"NDS": [
+		"new-super-mario-bros.html",
+		"mario-cart-ds.html",
+		"animal-crossing-wild-world.html",
+		"pokemon-heart-gold-version.html",
+		"pokemon-platinum-version.html",
+		"pokemon-white-version.html"
+	],
+	"Virtual Boy": [
+		"mario-clash.html",
+		"3-D-tetris.html",
+		"bound-high.html",
+		"galactic-pinball.html",
+		"golf.html",
+		"jack-bros.html",
+		"mario's-tennis.html",
+		"space-invaders-virtual-collection.html",
+		"space-pinball.html",
+		"teleroboxer.html",
+		"virtual-boy-wario-land.html",
+		"waterworld.html"
+	],
+	"MS-DOS": [
+		"doom.html",
+		"doom-2.html",
+		"windows-98.html",
+		"windows-95.html",
+		"windows-3.11.html",
+		"digger.html",
+		"NASCAR-Racing.html",
+		"new-math-blaster-plus!.html",
+		"FIFA-96.html"
+	],
+	"ATARI 2600":
+				[
+			"pac-man.html",
+			"space-invaders.html",
+			"asteroids.html",
+			"dig-dug.html",
+			"pole-position.html",
+			"ms.pacman.html"
+	],
+	"ATARI 5200":
+				[
+			"pole-position.html",
+			"pitfall!.html",
+			"realsports-football.html",
+			"super-pac-man.html",
+			"pac-man.html",
+			"dig-dug.html"
+    ],
+	"ATARI 7800":
+				[
+			"pole-position-2.html"
+	],
+	"ATARI LYNX":
+				[
+			"pac–land.html"
+	],
+	"ATARI JAGUAR":
+				  [
+			"rayman.html"
+	],
+	"PCE":
+		 [
+	"bonk's-adventure.html",
+	"bonk's-revenge.html",
+	"bonk-III-–-bonk's-big-adventure.html",
+	"pac–land.html",
+	"bomberman.html"
+	],
+	"ANDROID":
+			[
+		"subway-surfers.html",
+		"flappy-bird.html",
+		"minecraft.html",
+		"block-blast.html",
+		"temple-run-2.html",
+		"cookie-clicker.html",
+		"cookie-clicker-classic.html",
+		"five-nights-at-freddy's.html"
+	],
+	
+	"OTHER":
+			[
+		"five-nights-at-epstien's.html",
+		"epstien-clicker.html",
+		"charlie-kirk-clicker.html",
+		"we-become-who-we-behold.html"
+	]
 }
