@@ -1,237 +1,1299 @@
 {
-    "GBA": ["pokemon-fire-red-version.html",
-	        "pokemon-emerald-version.html",
-            "pokemon-ruby-version.html",		
-            "pokemon-sapphire-version.html",
-			"pokemon-leaf-green-version.html",
-			"doom-2.html",
-			"doom.html",
-			"sonic-advance-3.html",
-			"mario-pinball-land.html",
-			"mario-vs.-donkey-kong.html",
-			"sonic-advance.html",
-			"spongeBob-squarePants-—-revenge-of-the-flying-dutchman.html",
-			"mario-kart-super-circuit.html",
-			"donkey-kong-country.html"
-			],
-    "GB": [
-        "pokemon-red-version.html",
-        "pokemon-blue-version.html",
-        "pokemon-green-version.html",
-        "pokemon-yellow-version.html",
-        "super-mario-land.html",
-        "super-mario-Land-2-the-6-golden-coins.html",
-		"tetris.html",
-		"dr.-mario.html",
-		"kirby's-dream-land-2.html",
-		"legend-of-zelda,-the-link's-awakening.html",
-		"wario-land-super-mario-land-3.html",
-		"metroid-II-–-return-of-samus.html"
-	],
-	"GBC": [
-        "super-mario-bros.-deluxe.html",
-		"legend-of-zelda,-the-–-links-awakening-dX.html",
-		"pokemon-gold-version.html",
-		"pokemon-silver-version.html",
-		"pokemon-crystal-version.html"
-	],
-	
-    "NES": [
-        "paper-boy.html",
-        "super-mario-bros.html",
-        "super-mario-bros-2.html",
-        "super-mario-bros-3.html",
-		"kirbys-adventure.html",
-		"adventure-island.html",
-		"adventure-Island-II.html",
-		"adventure-island-3.html",
-        "1942.html",
-		"snow-bros.html",
-		"dr.mario.html",
-		"metroid.html",
-		"pac-man-(namco).html",
-		"donkey-kong-classics.html",
-		"excitebike.html",
-		"mike-tysons-punch-out.html",
-		"contra.html",
-		"teenage-mutant-ninja-turtles.html",
-		"ice-hockey.html",
-		"ice-climber.html",
-		"mario-bros.html",
-		"tetris.html",
-		"golf.html",
-		"popeye.html",
-		"galaga.html",
-		"rad-racer.html",
-		"duck-hunt.html",
-		"F1-Race.html"
-    ],
-"SNES": [
-     "super-mario-world.html",
-     "donkey-kong-country-3-dixie-kong's-double-trouble!.html",
-     "donkey-kong-country.html",
-     "street-fighter-II-turbo.html",
-     "super-mario-kart.html",
-     "super-mario-world-2-yoshi's-Island.html",
-     "the-legend-of-zelda,-a-link-to-the-past.html",
-     "doom.html",
-     "f-zero.html",
-     "kirby-super-star.html",
-     "super-metroid.html",
-     "super-mario-rpg-the-legend-of-the-seven-stars.html",
-     "mortal-kombat.html",
-     "contra-III-the-alien-wars.html",
-     "dragon-ball-z-hyper-dimension.html",
-     "jurassic-park.html",
-     "simpsons,-the-bart's-nightmare.html",
-     "super-mario-all-stars.html",
-     "super-punch-out!!.html",
-     "ultimate-mortal-kombat-3.html",
-     "mortal-kombat-3.html",
-     "tetris-and-dr.mario.html",
-     "mortal-kombat-II.html"
-],
-    "GENESIS": ["sonic-the-hedgehog.html",
-	            "sonic-the-hedgehog-2.html",
-				"sonic-and-knuckles.html",
-				"sonic-3D-blast.html",
-				"sonic-the-hedgehog-3.html"
-				],
-	"SGG":
-		 [
-		 "sonic-the-hedgehog.html",
-		 "sonic-the-hedgehog-2.html"
-	],
-	"SMS":
-		[
-		"alex-kidd-in-miracle-world.html",
-		"sonic-the-hedgehog-2.html"
-	],
-		  
-    "N64": [
-			"super-mario-64.html",
-			"donkey-kong-64.html",
-			"legend-of-zelda,-the-majora's-mask.html",
-			"mario-kart-64.html",
-			"pokemon-staduim.html",
-			"pokemon-staduim-2.html",
-			"super-smash-bros.html",
-			"the-legend-of-zelda,-the-ocarina-of-time.html",
-			"kirby-64,-the-crystal-shards.html",
-			"mario-party-3.html",
-			"mario-party-2.html",
-			"mario-party.html",
-			"yoshi's-story.html",
-			"diddy-kong-racing.html",
-			"doom-64.html",
-			"goldenye-007.html",
-			"mario-tennis.html",
-			"pokemon-snap.html",
-			"waluigi's-taco-stand.html",
-			"mario-builder-64.html",
-			"doubutsu-no-mori.html"
-			],
-	"PS1": [
-		    "spyro-the-dragon.html",
-			"crash-bandicoot.html",
-			"ridge-racer-r4.html",
-			"spyro-2-–-ripto's-rage!.html",
-			"pepsiman.html",
-			"spyro-the-year-of-the-dragon.html",
-			"pacman-world.html"
-		   ],
-	"PSP":
-			[
-			"FIFA-14.html"
-			],
-	"NDS": [
-		"new-super-mario-bros.html",
-		"mario-cart-ds.html",
-		"animal-crossing-wild-world.html",
-		"pokemon-heart-gold-version.html",
-		"pokemon-platinum-version.html",
-		"pokemon-white-version.html"
-	],
-	"Virtual Boy": [
-		"mario-clash.html",
-		"3-D-tetris.html",
-		"bound-high.html",
-		"galactic-pinball.html",
-		"golf.html",
-		"jack-bros.html",
-		"mario's-tennis.html",
-		"space-invaders-virtual-collection.html",
-		"space-pinball.html",
-		"teleroboxer.html",
-		"virtual-boy-wario-land.html",
-		"waterworld.html"
-	],
-	"MS-DOS": [
-		"doom.html",
-		"doom-2.html",
-		"windows-98.html",
-		"windows-95.html",
-		"windows-3.11.html",
-		"digger.html",
-		"NASCAR-Racing.html",
-		"new-math-blaster-plus!.html",
-		"FIFA-96.html"
-	],
-	"ATARI 2600":
-				[
-			"pac-man.html",
-			"space-invaders.html",
-			"asteroids.html",
-			"dig-dug.html",
-			"pole-position.html",
-			"ms.pacman.html"
-	],
-	"ATARI 5200":
-				[
-			"pole-position.html",
-			"pitfall!.html",
-			"realsports-football.html",
-			"super-pac-man.html",
-			"pac-man.html",
-			"dig-dug.html"
-    ],
-	"ATARI 7800":
-				[
-			"pole-position-2.html"
-	],
-	"ATARI LYNX":
-				[
-			"pac–land.html"
-	],
-	"ATARI JAGUAR":
-				  [
-			"rayman.html"
-	],
-	"PCE":
-		 [
-	"bonk's-adventure.html",
-	"bonk's-revenge.html",
-	"bonk-III-–-bonk's-big-adventure.html",
-	"pac–land.html",
-	"bomberman.html"
-	],
-	"ANDROID":
-			[
-		"subway-surfers.html",
-		"flappy-bird.html",
-		"minecraft.html",
-		"block-blast.html",
-		"temple-run-2.html",
-		"cookie-clicker.html",
-		"cookie-clicker-classic.html",
-		"five-nights-at-freddy's.html"
-	],
-	
-	"OTHER":
-			[
-		"five-nights-at-epstien's.html",
-		"epstien-clicker.html",
-		"charlie-kirk-clicker.html",
-		"we-become-who-we-behold.html"
-	]
+  "GBA": [
+    {
+      "file": "pokemon-fire-red-version.html",
+      "name": "Pokemon Fire Red Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-fire-red-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-fire-red-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-fire-red-version.webp"
+    },
+    {
+      "file": "pokemon-emerald-version.html",
+      "name": "Pokemon Emerald Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-emerald-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-emerald-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-emerald-version.webp"
+    },
+    {
+      "file": "pokemon-ruby-version.html",
+      "name": "Pokemon Ruby Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-ruby-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-ruby-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-ruby-version.webp"
+    },
+    {
+      "file": "pokemon-sapphire-version.html",
+      "name": "Pokemon Sapphire Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-sapphire-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-sapphire-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-sapphire-version.webp"
+    },
+    {
+      "file": "pokemon-leaf-green-version.html",
+      "name": "Pokemon Leaf Green Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-leaf-green-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-leaf-green-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-leaf-green-version.webp"
+    },
+    {
+      "file": "doom-2.html",
+      "name": "Doom 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/doom-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/doom-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/doom-2.webp"
+    },
+    {
+      "file": "doom.html",
+      "name": "Doom",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/doom.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/doom.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/doom.webp"
+    },
+    {
+      "file": "sonic-advance-3.html",
+      "name": "Sonic Advance 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-advance-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-advance-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-advance-3.webp"
+    },
+    {
+      "file": "mario-pinball-land.html",
+      "name": "Mario Pinball Land",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-pinball-land.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-pinball-land.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-pinball-land.webp"
+    },
+    {
+      "file": "mario-vs.-donkey-kong.html",
+      "name": "Mario Vs. Donkey Kong",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-vs.-donkey-kong.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-vs.-donkey-kong.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-vs.-donkey-kong.webp"
+    },
+    {
+      "file": "sonic-advance.html",
+      "name": "Sonic Advance",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-advance.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-advance.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-advance.webp"
+    },
+    {
+      "file": "spongeBob-squarePants-—-revenge-of-the-flying-dutchman.html",
+      "name": "Spongebob Squarepants — Revenge Of The Flying Dutchman",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/spongeBob-squarePants-—-revenge-of-the-flying-dutchman.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/spongeBob-squarePants-—-revenge-of-the-flying-dutchman.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/spongeBob-squarePants-—-revenge-of-the-flying-dutchman.webp"
+    },
+    {
+      "file": "mario-kart-super-circuit.html",
+      "name": "Mario Kart Super Circuit",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-kart-super-circuit.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-kart-super-circuit.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-kart-super-circuit.webp"
+    },
+    {
+      "file": "donkey-kong-country.html",
+      "name": "Donkey Kong Country",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/donkey-kong-country.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/donkey-kong-country.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/donkey-kong-country.webp"
+    }
+  ],
+  "GB": [
+    {
+      "file": "pokemon-red-version.html",
+      "name": "Pokemon Red Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-red-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-red-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-red-version.webp"
+    },
+    {
+      "file": "pokemon-blue-version.html",
+      "name": "Pokemon Blue Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-blue-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-blue-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-blue-version.webp"
+    },
+    {
+      "file": "pokemon-green-version.html",
+      "name": "Pokemon Green Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-green-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-green-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-green-version.webp"
+    },
+    {
+      "file": "pokemon-yellow-version.html",
+      "name": "Pokemon Yellow Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-yellow-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-yellow-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-yellow-version.webp"
+    },
+    {
+      "file": "super-mario-land.html",
+      "name": "Super Mario Land",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-land.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-land.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-land.webp"
+    },
+    {
+      "file": "super-mario-Land-2-the-6-golden-coins.html",
+      "name": "Super Mario Land 2 The 6 Golden Coins",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-Land-2-the-6-golden-coins.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-Land-2-the-6-golden-coins.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-Land-2-the-6-golden-coins.webp"
+    },
+    {
+      "file": "tetris.html",
+      "name": "Tetris",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/tetris.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/tetris.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/tetris.webp"
+    },
+    {
+      "file": "dr.-mario.html",
+      "name": "Dr. Mario",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/dr.-mario.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/dr.-mario.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/dr.-mario.webp"
+    },
+    {
+      "file": "kirby's-dream-land-2.html",
+      "name": "Kirby'S Dream Land 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/kirby's-dream-land-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/kirby's-dream-land-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/kirby's-dream-land-2.webp"
+    },
+    {
+      "file": "legend-of-zelda,-the-link's-awakening.html",
+      "name": "Legend Of Zelda, The Link'S Awakening",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/legend-of-zelda,-the-link's-awakening.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/legend-of-zelda,-the-link's-awakening.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/legend-of-zelda,-the-link's-awakening.webp"
+    },
+    {
+      "file": "wario-land-super-mario-land-3.html",
+      "name": "Wario Land Super Mario Land 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/wario-land-super-mario-land-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/wario-land-super-mario-land-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/wario-land-super-mario-land-3.webp"
+    },
+    {
+      "file": "metroid-II-–-return-of-samus.html",
+      "name": "Metroid Ii - Return Of Samus",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/metroid-II-–-return-of-samus.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/metroid-II-–-return-of-samus.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/metroid-II-–-return-of-samus.webp"
+    }
+  ],
+  "GBC": [
+    {
+      "file": "super-mario-bros.-deluxe.html",
+      "name": "Super Mario Bros. Deluxe",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-bros.-deluxe.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-bros.-deluxe.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-bros.-deluxe.webp"
+    },
+    {
+      "file": "legend-of-zelda,-the-–-links-awakening-dX.html",
+      "name": "Legend Of Zelda, The - Links Awakening Dx",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/legend-of-zelda,-the-–-links-awakening-dX.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/legend-of-zelda,-the-–-links-awakening-dX.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/legend-of-zelda,-the-–-links-awakening-dX.webp"
+    },
+    {
+      "file": "pokemon-gold-version.html",
+      "name": "Pokemon Gold Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-gold-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-gold-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-gold-version.webp"
+    },
+    {
+      "file": "pokemon-silver-version.html",
+      "name": "Pokemon Silver Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-silver-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-silver-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-silver-version.webp"
+    },
+    {
+      "file": "pokemon-crystal-version.html",
+      "name": "Pokemon Crystal Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-crystal-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-crystal-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-crystal-version.webp"
+    }
+  ],
+  "NES": [
+    {
+      "file": "paper-boy.html",
+      "name": "Paper Boy",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/paper-boy.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/paper-boy.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/paper-boy.webp"
+    },
+    {
+      "file": "super-mario-bros.html",
+      "name": "Super Mario Bros",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-bros.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-bros.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-bros.webp"
+    },
+    {
+      "file": "super-mario-bros-2.html",
+      "name": "Super Mario Bros 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-bros-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-bros-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-bros-2.webp"
+    },
+    {
+      "file": "super-mario-bros-3.html",
+      "name": "Super Mario Bros 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-bros-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-bros-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-bros-3.webp"
+    },
+    {
+      "file": "kirbys-adventure.html",
+      "name": "Kirbys Adventure",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/kirbys-adventure.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/kirbys-adventure.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/kirbys-adventure.webp"
+    },
+    {
+      "file": "adventure-island.html",
+      "name": "Adventure Island",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/adventure-island.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/adventure-island.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/adventure-island.webp"
+    },
+    {
+      "file": "adventure-Island-II.html",
+      "name": "Adventure Island Ii",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/adventure-Island-II.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/adventure-Island-II.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/adventure-Island-II.webp"
+    },
+    {
+      "file": "adventure-island-3.html",
+      "name": "Adventure Island 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/adventure-island-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/adventure-island-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/adventure-island-3.webp"
+    },
+    {
+      "file": "1942.html",
+      "name": "1942",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/1942.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/1942.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/1942.webp"
+    },
+    {
+      "file": "snow-bros.html",
+      "name": "Snow Bros",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/snow-bros.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/snow-bros.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/snow-bros.webp"
+    },
+    {
+      "file": "dr.mario.html",
+      "name": "Dr.Mario",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/dr.mario.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/dr.mario.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/dr.mario.webp"
+    },
+    {
+      "file": "metroid.html",
+      "name": "Metroid",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/metroid.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/metroid.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/metroid.webp"
+    },
+    {
+      "file": "pac-man-(namco).html",
+      "name": "Pac Man (Namco)",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pac-man-(namco).html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pac-man-(namco).webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pac-man-(namco).webp"
+    },
+    {
+      "file": "donkey-kong-classics.html",
+      "name": "Donkey Kong Classics",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/donkey-kong-classics.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/donkey-kong-classics.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/donkey-kong-classics.webp"
+    },
+    {
+      "file": "excitebike.html",
+      "name": "Excitebike",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/excitebike.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/excitebike.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/excitebike.webp"
+    },
+    {
+      "file": "mike-tysons-punch-out.html",
+      "name": "Mike Tysons Punch Out",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mike-tysons-punch-out.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mike-tysons-punch-out.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mike-tysons-punch-out.webp"
+    },
+    {
+      "file": "contra.html",
+      "name": "Contra",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/contra.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/contra.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/contra.webp"
+    },
+    {
+      "file": "teenage-mutant-ninja-turtles.html",
+      "name": "Teenage Mutant Ninja Turtles",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/teenage-mutant-ninja-turtles.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/teenage-mutant-ninja-turtles.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/teenage-mutant-ninja-turtles.webp"
+    },
+    {
+      "file": "ice-hockey.html",
+      "name": "Ice Hockey",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/ice-hockey.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/ice-hockey.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/ice-hockey.webp"
+    },
+    {
+      "file": "ice-climber.html",
+      "name": "Ice Climber",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/ice-climber.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/ice-climber.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/ice-climber.webp"
+    },
+    {
+      "file": "mario-bros.html",
+      "name": "Mario Bros",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-bros.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-bros.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-bros.webp"
+    },
+    {
+      "file": "tetris.html",
+      "name": "Tetris",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/tetris.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/tetris.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/tetris.webp"
+    },
+    {
+      "file": "golf.html",
+      "name": "Golf",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/golf.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/golf.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/golf.webp"
+    },
+    {
+      "file": "popeye.html",
+      "name": "Popeye",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/popeye.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/popeye.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/popeye.webp"
+    },
+    {
+      "file": "galaga.html",
+      "name": "Galaga",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/galaga.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/galaga.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/galaga.webp"
+    },
+    {
+      "file": "rad-racer.html",
+      "name": "Rad Racer",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/rad-racer.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/rad-racer.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/rad-racer.webp"
+    },
+    {
+      "file": "duck-hunt.html",
+      "name": "Duck Hunt",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/duck-hunt.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/duck-hunt.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/duck-hunt.webp"
+    },
+    {
+      "file": "F1-Race.html",
+      "name": "F1 Race",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/F1-Race.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/F1-Race.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/F1-Race.webp"
+    }
+  ],
+  "SNES": [
+    {
+      "file": "super-mario-world.html",
+      "name": "Super Mario World",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-world.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-world.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-world.webp"
+    },
+    {
+      "file": "donkey-kong-country-3-dixie-kong's-double-trouble!.html",
+      "name": "Donkey Kong Country 3 Dixie Kong'S Double Trouble!",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/donkey-kong-country-3-dixie-kong's-double-trouble!.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/donkey-kong-country-3-dixie-kong's-double-trouble!.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/donkey-kong-country-3-dixie-kong's-double-trouble!.webp"
+    },
+    {
+      "file": "donkey-kong-country.html",
+      "name": "Donkey Kong Country",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/donkey-kong-country.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/donkey-kong-country.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/donkey-kong-country.webp"
+    },
+    {
+      "file": "street-fighter-II-turbo.html",
+      "name": "Street Fighter Ii Turbo",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/street-fighter-II-turbo.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/street-fighter-II-turbo.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/street-fighter-II-turbo.webp"
+    },
+    {
+      "file": "super-mario-kart.html",
+      "name": "Super Mario Kart",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-kart.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-kart.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-kart.webp"
+    },
+    {
+      "file": "super-mario-world-2-yoshi's-Island.html",
+      "name": "Super Mario World 2 Yoshi'S Island",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-world-2-yoshi's-Island.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-world-2-yoshi's-Island.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-world-2-yoshi's-Island.webp"
+    },
+    {
+      "file": "the-legend-of-zelda,-a-link-to-the-past.html",
+      "name": "The Legend Of Zelda, A Link To The Past",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/the-legend-of-zelda,-a-link-to-the-past.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/the-legend-of-zelda,-a-link-to-the-past.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/the-legend-of-zelda,-a-link-to-the-past.webp"
+    },
+    {
+      "file": "doom.html",
+      "name": "Doom",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/doom.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/doom.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/doom.webp"
+    },
+    {
+      "file": "f-zero.html",
+      "name": "F Zero",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/f-zero.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/f-zero.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/f-zero.webp"
+    },
+    {
+      "file": "kirby-super-star.html",
+      "name": "Kirby Super Star",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/kirby-super-star.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/kirby-super-star.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/kirby-super-star.webp"
+    },
+    {
+      "file": "super-metroid.html",
+      "name": "Super Metroid",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-metroid.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-metroid.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-metroid.webp"
+    },
+    {
+      "file": "super-mario-rpg-the-legend-of-the-seven-stars.html",
+      "name": "Super Mario Rpg The Legend Of The Seven Stars",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-rpg-the-legend-of-the-seven-stars.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-rpg-the-legend-of-the-seven-stars.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-rpg-the-legend-of-the-seven-stars.webp"
+    },
+    {
+      "file": "mortal-kombat.html",
+      "name": "Mortal Kombat",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mortal-kombat.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mortal-kombat.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mortal-kombat.webp"
+    },
+    {
+      "file": "contra-III-the-alien-wars.html",
+      "name": "Contra Iii The Alien Wars",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/contra-III-the-alien-wars.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/contra-III-the-alien-wars.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/contra-III-the-alien-wars.webp"
+    },
+    {
+      "file": "dragon-ball-z-hyper-dimension.html",
+      "name": "Dragon Ball Z Hyper Dimension",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/dragon-ball-z-hyper-dimension.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/dragon-ball-z-hyper-dimension.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/dragon-ball-z-hyper-dimension.webp"
+    },
+    {
+      "file": "jurassic-park.html",
+      "name": "Jurassic Park",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/jurassic-park.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/jurassic-park.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/jurassic-park.webp"
+    },
+    {
+      "file": "simpsons,-the-bart's-nightmare.html",
+      "name": "Simpsons, The Bart'S Nightmare",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/simpsons,-the-bart's-nightmare.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/simpsons,-the-bart's-nightmare.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/simpsons,-the-bart's-nightmare.webp"
+    },
+    {
+      "file": "super-mario-all-stars.html",
+      "name": "Super Mario All Stars",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-all-stars.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-all-stars.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-all-stars.webp"
+    },
+    {
+      "file": "super-punch-out!!.html",
+      "name": "Super Punch Out!!",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-punch-out!!.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-punch-out!!.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-punch-out!!.webp"
+    },
+    {
+      "file": "ultimate-mortal-kombat-3.html",
+      "name": "Ultimate Mortal Kombat 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/ultimate-mortal-kombat-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/ultimate-mortal-kombat-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/ultimate-mortal-kombat-3.webp"
+    },
+    {
+      "file": "mortal-kombat-3.html",
+      "name": "Mortal Kombat 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mortal-kombat-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mortal-kombat-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mortal-kombat-3.webp"
+    },
+    {
+      "file": "tetris-and-dr.mario.html",
+      "name": "Tetris And Dr.Mario",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/tetris-and-dr.mario.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/tetris-and-dr.mario.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/tetris-and-dr.mario.webp"
+    },
+    {
+      "file": "mortal-kombat-II.html",
+      "name": "Mortal Kombat Ii",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mortal-kombat-II.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mortal-kombat-II.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mortal-kombat-II.webp"
+    }
+  ],
+  "GENESIS": [
+    {
+      "file": "sonic-the-hedgehog.html",
+      "name": "Sonic The Hedgehog",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-the-hedgehog.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-the-hedgehog.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-the-hedgehog.webp"
+    },
+    {
+      "file": "sonic-the-hedgehog-2.html",
+      "name": "Sonic The Hedgehog 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-the-hedgehog-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-the-hedgehog-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-the-hedgehog-2.webp"
+    },
+    {
+      "file": "sonic-and-knuckles.html",
+      "name": "Sonic And Knuckles",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-and-knuckles.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-and-knuckles.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-and-knuckles.webp"
+    },
+    {
+      "file": "sonic-3D-blast.html",
+      "name": "Sonic 3D Blast",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-3D-blast.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-3D-blast.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-3D-blast.webp"
+    },
+    {
+      "file": "sonic-the-hedgehog-3.html",
+      "name": "Sonic The Hedgehog 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-the-hedgehog-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-the-hedgehog-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-the-hedgehog-3.webp"
+    }
+  ],
+  "SGG": [
+    {
+      "file": "sonic-the-hedgehog.html",
+      "name": "Sonic The Hedgehog",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-the-hedgehog.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-the-hedgehog.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-the-hedgehog.webp"
+    },
+    {
+      "file": "sonic-the-hedgehog-2.html",
+      "name": "Sonic The Hedgehog 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-the-hedgehog-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-the-hedgehog-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-the-hedgehog-2.webp"
+    }
+  ],
+  "SMS": [
+    {
+      "file": "alex-kidd-in-miracle-world.html",
+      "name": "Alex Kidd In Miracle World",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/alex-kidd-in-miracle-world.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/alex-kidd-in-miracle-world.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/alex-kidd-in-miracle-world.webp"
+    },
+    {
+      "file": "sonic-the-hedgehog-2.html",
+      "name": "Sonic The Hedgehog 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/sonic-the-hedgehog-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/sonic-the-hedgehog-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/sonic-the-hedgehog-2.webp"
+    }
+  ],
+  "N64": [
+    {
+      "file": "super-mario-64.html",
+      "name": "Super Mario 64",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-mario-64.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-mario-64.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-mario-64.webp"
+    },
+    {
+      "file": "donkey-kong-64.html",
+      "name": "Donkey Kong 64",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/donkey-kong-64.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/donkey-kong-64.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/donkey-kong-64.webp"
+    },
+    {
+      "file": "legend-of-zelda,-the-majora's-mask.html",
+      "name": "Legend Of Zelda, The Majora'S Mask",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/legend-of-zelda,-the-majora's-mask.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/legend-of-zelda,-the-majora's-mask.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/legend-of-zelda,-the-majora's-mask.webp"
+    },
+    {
+      "file": "mario-kart-64.html",
+      "name": "Mario Kart 64",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-kart-64.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-kart-64.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-kart-64.webp"
+    },
+    {
+      "file": "pokemon-staduim.html",
+      "name": "Pokemon Staduim",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-staduim.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-staduim.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-staduim.webp"
+    },
+    {
+      "file": "pokemon-staduim-2.html",
+      "name": "Pokemon Staduim 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-staduim-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-staduim-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-staduim-2.webp"
+    },
+    {
+      "file": "super-smash-bros.html",
+      "name": "Super Smash Bros",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-smash-bros.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-smash-bros.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-smash-bros.webp"
+    },
+    {
+      "file": "the-legend-of-zelda,-the-ocarina-of-time.html",
+      "name": "The Legend Of Zelda, The Ocarina Of Time",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/the-legend-of-zelda,-the-ocarina-of-time.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/the-legend-of-zelda,-the-ocarina-of-time.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/the-legend-of-zelda,-the-ocarina-of-time.webp"
+    },
+    {
+      "file": "kirby-64,-the-crystal-shards.html",
+      "name": "Kirby 64, The Crystal Shards",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/kirby-64,-the-crystal-shards.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/kirby-64,-the-crystal-shards.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/kirby-64,-the-crystal-shards.webp"
+    },
+    {
+      "file": "mario-party-3.html",
+      "name": "Mario Party 3",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-party-3.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-party-3.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-party-3.webp"
+    },
+    {
+      "file": "mario-party-2.html",
+      "name": "Mario Party 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-party-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-party-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-party-2.webp"
+    },
+    {
+      "file": "mario-party.html",
+      "name": "Mario Party",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-party.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-party.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-party.webp"
+    },
+    {
+      "file": "yoshi's-story.html",
+      "name": "Yoshi'S Story",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/yoshi's-story.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/yoshi's-story.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/yoshi's-story.webp"
+    },
+    {
+      "file": "diddy-kong-racing.html",
+      "name": "Diddy Kong Racing",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/diddy-kong-racing.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/diddy-kong-racing.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/diddy-kong-racing.webp"
+    },
+    {
+      "file": "doom-64.html",
+      "name": "Doom 64",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/doom-64.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/doom-64.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/doom-64.webp"
+    },
+    {
+      "file": "goldenye-007.html",
+      "name": "Goldenye 007",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/goldenye-007.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/goldenye-007.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/goldenye-007.webp"
+    },
+    {
+      "file": "mario-tennis.html",
+      "name": "Mario Tennis",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-tennis.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-tennis.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-tennis.webp"
+    },
+    {
+      "file": "pokemon-snap.html",
+      "name": "Pokemon Snap",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-snap.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-snap.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-snap.webp"
+    },
+    {
+      "file": "waluigi's-taco-stand.html",
+      "name": "Waluigi'S Taco Stand",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/waluigi's-taco-stand.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/waluigi's-taco-stand.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/waluigi's-taco-stand.webp"
+    },
+    {
+      "file": "mario-builder-64.html",
+      "name": "Mario Builder 64",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-builder-64.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-builder-64.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-builder-64.webp"
+    },
+    {
+      "file": "doubutsu-no-mori.html",
+      "name": "Doubutsu No Mori",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/doubutsu-no-mori.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/doubutsu-no-mori.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/doubutsu-no-mori.webp"
+    }
+  ],
+  "PS1": [
+    {
+      "file": "spyro-the-dragon.html",
+      "name": "Spyro The Dragon",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/spyro-the-dragon.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/spyro-the-dragon.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/spyro-the-dragon.webp"
+    },
+    {
+      "file": "crash-bandicoot.html",
+      "name": "Crash Bandicoot",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/crash-bandicoot.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/crash-bandicoot.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/crash-bandicoot.webp"
+    },
+    {
+      "file": "ridge-racer-r4.html",
+      "name": "Ridge Racer R4",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/ridge-racer-r4.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/ridge-racer-r4.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/ridge-racer-r4.webp"
+    },
+    {
+      "file": "spyro-2-–-ripto's-rage!.html",
+      "name": "Spyro 2 - Ripto'S Rage!",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/spyro-2-–-ripto's-rage!.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/spyro-2-–-ripto's-rage!.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/spyro-2-–-ripto's-rage!.webp"
+    },
+    {
+      "file": "pepsiman.html",
+      "name": "Pepsiman",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pepsiman.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pepsiman.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pepsiman.webp"
+    },
+    {
+      "file": "spyro-the-year-of-the-dragon.html",
+      "name": "Spyro The Year Of The Dragon",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/spyro-the-year-of-the-dragon.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/spyro-the-year-of-the-dragon.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/spyro-the-year-of-the-dragon.webp"
+    },
+    {
+      "file": "pacman-world.html",
+      "name": "Pacman World",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pacman-world.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pacman-world.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pacman-world.webp"
+    }
+  ],
+  "PSP": [
+    {
+      "file": "FIFA-14.html",
+      "name": "Fifa 14",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/FIFA-14.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/FIFA-14.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/FIFA-14.webp"
+    }
+  ],
+  "NDS": [
+    {
+      "file": "new-super-mario-bros.html",
+      "name": "New Super Mario Bros",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/new-super-mario-bros.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/new-super-mario-bros.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/new-super-mario-bros.webp"
+    },
+    {
+      "file": "mario-cart-ds.html",
+      "name": "Mario Cart Ds",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-cart-ds.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-cart-ds.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-cart-ds.webp"
+    },
+    {
+      "file": "animal-crossing-wild-world.html",
+      "name": "Animal Crossing Wild World",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/animal-crossing-wild-world.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/animal-crossing-wild-world.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/animal-crossing-wild-world.webp"
+    },
+    {
+      "file": "pokemon-heart-gold-version.html",
+      "name": "Pokemon Heart Gold Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-heart-gold-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-heart-gold-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-heart-gold-version.webp"
+    },
+    {
+      "file": "pokemon-platinum-version.html",
+      "name": "Pokemon Platinum Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-platinum-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-platinum-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-platinum-version.webp"
+    },
+    {
+      "file": "pokemon-white-version.html",
+      "name": "Pokemon White Version",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pokemon-white-version.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pokemon-white-version.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pokemon-white-version.webp"
+    }
+  ],
+  "Virtual Boy": [
+    {
+      "file": "mario-clash.html",
+      "name": "Mario Clash",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario-clash.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario-clash.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario-clash.webp"
+    },
+    {
+      "file": "3-D-tetris.html",
+      "name": "3 D Tetris",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/3-D-tetris.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/3-D-tetris.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/3-D-tetris.webp"
+    },
+    {
+      "file": "bound-high.html",
+      "name": "Bound High",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/bound-high.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/bound-high.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/bound-high.webp"
+    },
+    {
+      "file": "galactic-pinball.html",
+      "name": "Galactic Pinball",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/galactic-pinball.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/galactic-pinball.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/galactic-pinball.webp"
+    },
+    {
+      "file": "golf.html",
+      "name": "Golf",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/golf.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/golf.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/golf.webp"
+    },
+    {
+      "file": "jack-bros.html",
+      "name": "Jack Bros",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/jack-bros.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/jack-bros.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/jack-bros.webp"
+    },
+    {
+      "file": "mario's-tennis.html",
+      "name": "Mario'S Tennis",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/mario's-tennis.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/mario's-tennis.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/mario's-tennis.webp"
+    },
+    {
+      "file": "space-invaders-virtual-collection.html",
+      "name": "Space Invaders Virtual Collection",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/space-invaders-virtual-collection.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/space-invaders-virtual-collection.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/space-invaders-virtual-collection.webp"
+    },
+    {
+      "file": "space-pinball.html",
+      "name": "Space Pinball",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/space-pinball.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/space-pinball.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/space-pinball.webp"
+    },
+    {
+      "file": "teleroboxer.html",
+      "name": "Teleroboxer",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/teleroboxer.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/teleroboxer.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/teleroboxer.webp"
+    },
+    {
+      "file": "virtual-boy-wario-land.html",
+      "name": "Virtual Boy Wario Land",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/virtual-boy-wario-land.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/virtual-boy-wario-land.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/virtual-boy-wario-land.webp"
+    },
+    {
+      "file": "waterworld.html",
+      "name": "Waterworld",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/waterworld.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/waterworld.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/waterworld.webp"
+    }
+  ],
+  "MS-DOS": [
+    {
+      "file": "doom.html",
+      "name": "Doom",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/doom.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/doom.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/doom.webp"
+    },
+    {
+      "file": "doom-2.html",
+      "name": "Doom 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/doom-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/doom-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/doom-2.webp"
+    },
+    {
+      "file": "windows-98.html",
+      "name": "Windows 98",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/windows-98.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/windows-98.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/windows-98.webp"
+    },
+    {
+      "file": "windows-95.html",
+      "name": "Windows 95",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/windows-95.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/windows-95.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/windows-95.webp"
+    },
+    {
+      "file": "windows-3.11.html",
+      "name": "Windows 3.11",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/windows-3.11.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/windows-3.11.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/windows-3.11.webp"
+    },
+    {
+      "file": "digger.html",
+      "name": "Digger",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/digger.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/digger.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/digger.webp"
+    },
+    {
+      "file": "NASCAR-Racing.html",
+      "name": "Nascar Racing",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/NASCAR-Racing.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/NASCAR-Racing.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/NASCAR-Racing.webp"
+    },
+    {
+      "file": "new-math-blaster-plus!.html",
+      "name": "New Math Blaster Plus!",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/new-math-blaster-plus!.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/new-math-blaster-plus!.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/new-math-blaster-plus!.webp"
+    },
+    {
+      "file": "FIFA-96.html",
+      "name": "Fifa 96",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/FIFA-96.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/FIFA-96.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/FIFA-96.webp"
+    }
+  ],
+  "ATARI 2600": [
+    {
+      "file": "pac-man.html",
+      "name": "Pac Man",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pac-man.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pac-man.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pac-man.webp"
+    },
+    {
+      "file": "space-invaders.html",
+      "name": "Space Invaders",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/space-invaders.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/space-invaders.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/space-invaders.webp"
+    },
+    {
+      "file": "asteroids.html",
+      "name": "Asteroids",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/asteroids.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/asteroids.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/asteroids.webp"
+    },
+    {
+      "file": "dig-dug.html",
+      "name": "Dig Dug",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/dig-dug.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/dig-dug.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/dig-dug.webp"
+    },
+    {
+      "file": "pole-position.html",
+      "name": "Pole Position",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pole-position.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pole-position.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pole-position.webp"
+    },
+    {
+      "file": "ms.pacman.html",
+      "name": "Ms.Pacman",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/ms.pacman.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/ms.pacman.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/ms.pacman.webp"
+    }
+  ],
+  "ATARI 5200": [
+    {
+      "file": "pole-position.html",
+      "name": "Pole Position",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pole-position.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pole-position.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pole-position.webp"
+    },
+    {
+      "file": "pitfall!.html",
+      "name": "Pitfall!",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pitfall!.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pitfall!.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pitfall!.webp"
+    },
+    {
+      "file": "realsports-football.html",
+      "name": "Realsports Football",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/realsports-football.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/realsports-football.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/realsports-football.webp"
+    },
+    {
+      "file": "super-pac-man.html",
+      "name": "Super Pac Man",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/super-pac-man.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/super-pac-man.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/super-pac-man.webp"
+    },
+    {
+      "file": "pac-man.html",
+      "name": "Pac Man",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pac-man.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pac-man.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pac-man.webp"
+    },
+    {
+      "file": "dig-dug.html",
+      "name": "Dig Dug",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/dig-dug.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/dig-dug.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/dig-dug.webp"
+    }
+  ],
+  "ATARI 7800": [
+    {
+      "file": "pole-position-2.html",
+      "name": "Pole Position 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pole-position-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pole-position-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pole-position-2.webp"
+    }
+  ],
+  "ATARI LYNX": [
+    {
+      "file": "pac–land.html",
+      "name": "Pac-Land",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pac–land.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pac–land.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pac–land.webp"
+    }
+  ],
+  "ATARI JAGUAR": [
+    {
+      "file": "rayman.html",
+      "name": "Rayman",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/rayman.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/rayman.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/rayman.webp"
+    }
+  ],
+  "PCE": [
+    {
+      "file": "bonk's-adventure.html",
+      "name": "Bonk'S Adventure",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/bonk's-adventure.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/bonk's-adventure.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/bonk's-adventure.webp"
+    },
+    {
+      "file": "bonk's-revenge.html",
+      "name": "Bonk'S Revenge",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/bonk's-revenge.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/bonk's-revenge.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/bonk's-revenge.webp"
+    },
+    {
+      "file": "bonk-III-–-bonk's-big-adventure.html",
+      "name": "Bonk Iii - Bonk'S Big Adventure",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/bonk-III-–-bonk's-big-adventure.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/bonk-III-–-bonk's-big-adventure.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/bonk-III-–-bonk's-big-adventure.webp"
+    },
+    {
+      "file": "pac–land.html",
+      "name": "Pac-Land",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/pac–land.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/pac–land.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/pac–land.webp"
+    },
+    {
+      "file": "bomberman.html",
+      "name": "Bomberman",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/bomberman.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/bomberman.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/bomberman.webp"
+    }
+  ],
+  "ANDROID": [
+    {
+      "file": "subway-surfers.html",
+      "name": "Subway Surfers",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/subway-surfers.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/subway-surfers.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/subway-surfers.webp"
+    },
+    {
+      "file": "flappy-bird.html",
+      "name": "Flappy Bird",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/flappy-bird.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/flappy-bird.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/flappy-bird.webp"
+    },
+    {
+      "file": "minecraft.html",
+      "name": "Minecraft",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/minecraft.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/minecraft.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/minecraft.webp"
+    },
+    {
+      "file": "block-blast.html",
+      "name": "Block Blast",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/block-blast.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/block-blast.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/block-blast.webp"
+    },
+    {
+      "file": "temple-run-2.html",
+      "name": "Temple Run 2",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/temple-run-2.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/temple-run-2.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/temple-run-2.webp"
+    },
+    {
+      "file": "cookie-clicker.html",
+      "name": "Cookie Clicker",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/cookie-clicker.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/cookie-clicker.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/cookie-clicker.webp"
+    },
+    {
+      "file": "cookie-clicker-classic.html",
+      "name": "Cookie Clicker Classic",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/cookie-clicker-classic.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/cookie-clicker-classic.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/cookie-clicker-classic.webp"
+    },
+    {
+      "file": "five-nights-at-freddy's.html",
+      "name": "Five Nights At Freddy'S",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/five-nights-at-freddy's.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/five-nights-at-freddy's.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/five-nights-at-freddy's.webp"
+    }
+  ],
+  "OTHER": [
+    {
+      "file": "five-nights-at-epstien's.html",
+      "name": "Five Nights At Epstien'S",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/five-nights-at-epstien's.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/five-nights-at-epstien's.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/five-nights-at-epstien's.webp"
+    },
+    {
+      "file": "epstien-clicker.html",
+      "name": "Epstien Clicker",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/epstien-clicker.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/epstien-clicker.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/epstien-clicker.webp"
+    },
+    {
+      "file": "charlie-kirk-clicker.html",
+      "name": "Charlie Kirk Clicker",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/charlie-kirk-clicker.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/charlie-kirk-clicker.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/charlie-kirk-clicker.webp"
+    },
+    {
+      "file": "we-become-who-we-behold.html",
+      "name": "We Become Who We Behold",
+      "url": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/html/we-become-who-we-behold.html",
+      "cover": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/covers/we-become-who-we-behold.webp",
+      "mix": "https://raw.githubusercontent.com/TS-DEV-DEBUG-V2/nostaliga.fun-chrome-extention/refs/heads/main/4-mix/we-become-who-we-behold.webp"
+    }
+  ]
 }
